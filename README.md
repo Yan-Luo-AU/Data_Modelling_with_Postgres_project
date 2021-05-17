@@ -77,7 +77,7 @@ Use what have been completed in `etl.ipynb` to complete etl.py, where the entire
 ![Dimension Table - users](/tables_screenshot/Users_table_screenshot.JPG "Dimension Table - users")
 
 #### songs - songs in music database
-![Dimension Table - songs](/tables_screenshot/songs_table_screenshot.JPG "Dimension Table - songs")
+![Dimension Table - songs](/tables_screenshot/Songs_table_screenshot.JPG "Dimension Table - songs")
 
 #### artists - artists in music database
 ![Dimension Table - artists](/tables_screenshot/artists_table_screenshot.JPG "Dimension Table - artists")
