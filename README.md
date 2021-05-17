@@ -83,5 +83,5 @@ Use what have been completed in `etl.ipynb` to complete etl.py, where the entire
 ![Dimension Table - artists](/tables_screenshot/artists_table_screenshot.JPG "Dimension Table - artists")
 
 #### time - timestamps of records in songplays broken down into specific units
-![Dimension Table - time](/tables_screenshot/time_table_screenshot.JPG "Dimension Table - time")
+![Dimension Table - time](/tables_screenshot/Time_table_screenshot.JPG "Dimension Table - time")
 
