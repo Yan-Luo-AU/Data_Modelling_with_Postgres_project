@@ -31,6 +31,8 @@ And below is an example of what the data in a log file, 2018-11-12-events.json, 
 
 ## Schema for Song Play Analysis
 The start schema optimized for song play analysis includes the following tables:
+![Star Schema](/tables_screenshot/start_schema.jpg "Star Schema")
+
 ### Fact Table
 1. songplays - records in log data associated with song plays i.e. records with page NextSong
  - songplay_id, start_time, user_id, level, song_id, artist_id, session_id, location, user_agent
